@@ -43,6 +43,7 @@ This project explores modern NLP workflows including semantic search, emotion-ba
 ### 1. Install dependencies
 
 ```bash
+git clone https://github.com/yurnero14/Book-Recommender.git
 pip install -r requirements.txt
 ````
 
