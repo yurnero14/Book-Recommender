@@ -67,9 +67,9 @@ python gradio-page.py
 
 > *(Add your screenshots in a `screenshots/` folder and reference them here)*
 
-### 🔍 Search Interface
+### Landing Page
 
-![Search Screenshot](./screenshots/search.png)
+![Search Screenshot](./screenshots/landing_page.png)
 
 ### 📖 Book Results
 
