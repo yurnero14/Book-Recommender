@@ -69,12 +69,25 @@ python gradio-page.py
 
 ### Landing Page
 
-![Search Screenshot](./screenshots/landing_page.png)
+![Landing Page Screenshot](./Screenshots/Landing_Page.png)
 
-### 📖 Book Results
+###  Book Results
 
-![Results Screenshot](./screenshots/results.png)
+Without any specific filtering
 
+![Results without Filters Screenshot](./Screenshots/Recommendation_without_filtering.png)
+
+With category filter 
+
+![Results with_first_filter](./Screenshots/Filter_1.png)
+
+With Category and Emotional tone filtering
+
+![Results witho_both_filtering](./Screenshots/Filter_2.png)
+
+Clicking on the book thumbnail gives additional information, and some other options via buttons of download, view in full-screen, and close. Also at the bottom, the user can scroll through all the recommendations
+
+![Additional_Information](./Screenshots/Additional_Information.png)
 ---
 
 ## 📊 Notebooks Included
