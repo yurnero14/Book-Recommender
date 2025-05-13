@@ -85,23 +85,8 @@ python gradio-page.py
 
 ---
 
-## ✨ Why This Project?
+## Reason for doing this project
 
-This project served as a deep dive into combining LLMs with structured recommendation logic — bridging the gap between raw text data and intelligent, user-aligned suggestions. It also sharpened my ability to integrate state-of-the-art NLP with interactive frontends.
+This project served as a deep dive into combining LLMs with structured recommendation logic, bridging the gap between raw text data and intelligent, user-aligned suggestions. It also sharpened my ability to integrate state-of-the-art NLP with interactive frontends.
 
----
 
-## 📬 Contact
-
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-name)
-More projects at [github.com/your-username](https://github.com/your-username)
-
-```
-
----
-
-Let me know when you're ready for:
-- A **GIF preview**
-- A **project badge bar** (tech badges, build status, etc.)
-- Help rewriting your **LinkedIn summary** for job applications using this project!
-```
