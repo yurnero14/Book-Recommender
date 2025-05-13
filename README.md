@@ -78,9 +78,8 @@ python gradio-page.py
 
 ## 📊 Notebooks Included
 
-* `data-exploration.ipynb`: Data cleaning, structure analysis
-* `vector-search.ipynb`: Embedding generation + vector DB setup
-* `text-classification.ipynb`: Fiction / non-fiction zero-shot classification
+* `data-setup.ipynb`: Data cleaning, structure analysis
+* `vector-search-and-text-classification.ipynb`: Embedding generation + vector DB setup + Fiction / non-fiction zero-shot classification
 * `sentiment-analysis.ipynb`: Emotion & tone tagging via LLMs
 
 ---
